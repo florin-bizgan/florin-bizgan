@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on [WoWDoP](https://wowdop.com/)
 - 🌱 I’m currently learning HTML, CSS, Pug, Sass, JavaScript, React, TypeScript, Remix.
-
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/florin-bizgan-262994239/)
 <!--
 **florin-bizgan/florin-bizgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
