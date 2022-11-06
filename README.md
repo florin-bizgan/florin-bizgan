@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   
-<img src="https://img.shields.io/badge/sass-20232A?style=for-the-badge&logo=sass&logoColor=pink"/>
+<img src="https://img.shields.io/badge/sass-1572B6?style=for-the-badge&logo=sass&logoColor=pink"/>
   
 <img src="https://img.shields.io/badge/PUG-E34F26?style=for-the-badge&logo=PUG&logoColor=white"/>
   
