@@ -9,6 +9,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bnuflorin/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
 [![Twitter](https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bnuflorin)
+[![Codewars](https://img.shields.io/badge/codewars-71717a?style=for-the-badge&logo=codewars&logoColor=orange)](#)
+[![Stackoverflow](https://img.shields.io/badge/stackoverflow-grey?style=for-the-badge&logo=stackoverflow&logoColor=orange)](#)
+
 <!--
 **florin-bizgan/florin-bizgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
