@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Technologies I've Worked With
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=florin-bizgan"/>
+
 <div style="display: flex">
   
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
