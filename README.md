@@ -3,8 +3,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on [WoWDoP](https://wowdop.com/)
 - 🌱 I’m currently learning HTML, CSS, Pug, Sass, JavaScript, React, TypeScript, Remix.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/florin-bizgan-262994239/)
-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florin-bizgan-262994239/)
+- 📫 How to reach me:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florin-bizgan-262994239/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bnuflorin/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCXNWj64aNGydxKGd6ZSeZmw)
 [![Twitter](https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bnuflorin)
