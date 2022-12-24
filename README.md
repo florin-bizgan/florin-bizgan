@@ -36,6 +36,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   
 <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=white"/>
+  
+<img src="https://img.shields.io/badge/remix-black?style=for-the-badge&logo=remix&logoColor=white"/>
+  
+<img src="https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase&logoColor=yellow"/>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
