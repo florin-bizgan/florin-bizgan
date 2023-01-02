@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 -->
 
 ### Technologies I've Worked With
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=florin-bizgan&show_icons=true&count_private=true&theme=buefy&hide_border=true" alt="Florin github stats" />  | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=florin-bizgan&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=florin-bizgan&show_icons=true&count_private=true&theme=buefy&hide_border=true" alt="Florin github stats" />  | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=florin-bizgan&layout=compact&theme=buefy&hide_border=true&count_private=true" /> |
 |-------|-------|
 
 <div style="display: flex">
