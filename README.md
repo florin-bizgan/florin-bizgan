@@ -1,23 +1,25 @@
 ![Header](https://user-images.githubusercontent.com/10077676/196818944-ffa9a261-a70f-4d84-9315-4e2863bfa7d8.png)
 
-<h1 align="center">Hi, I'm Florin 👋</h1>
-<p align="center">
-  <b>Frontend Developer | Freelancer | Building Clean Web Experiences</b><br/>
-  Crafting modern, responsive apps and managing backend systems for gaming networks like L2J.
-</p>
+# Hi, I'm Florin 👋  
+**Frontend Developer | Freelancer | Building Clean Web Experiences**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=florin-bizgan&label=Profile+views&color=0e75b6&style=flat" alt="florin-bizgan" />
-</p>
+Passionate about creating modern, responsive web apps and managing backend systems for game networks like L2J.
+
+![](https://komarev.com/ghpvc/?username=florin-bizgan)
 
 ---
 
 ## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,remix,firebase,mongodb,mysql,postgres,git,linux,figma" alt="Tech Stack" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python" alt="Backend Tools" /><br/>
+<div align="center">
+  
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,remix,firebase,mongodb,mysql,postgres,git,linux,figma" alt="Tech Stack" />
+  
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python" alt="Backend Tools" />
+  <br/>
   <img src="https://img.shields.io/badge/L2J-HighFive-blueviolet?style=for-the-badge&logo=java&logoColor=white" alt="L2J HighFive" />
-</p>
+  
+</div>
 
 ---
 
@@ -29,13 +31,8 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=florin-bizgan&show_icons=true&count_private=true&theme=radical&hide_border=false&border_radius=12" alt="Florin's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=florin-bizgan&layout=compact&theme=radical&hide_border=false&border_radius=12" alt="Top Languages" />
-</p>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=florin-bizgan&show_icons=true&count_private=true&theme=radical&hide_border=false&border_radius=12" alt="Florin github stats" />  | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=florin-bizgan&layout=compact&theme=radical&hide_border=false&border_radius=12" alt="Top Languages" /> |
+| ------------- | ------------- |
 
 ---
 
