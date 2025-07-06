@@ -5,6 +5,8 @@
 
 Passionate about creating modern, responsive web apps and managing backend systems for game networks like L2J.
 
+![](https://komarev.com/ghpvc/?username=florin-bizgan)
+
 ---
 
 ## 🛠 Tech Stack
