@@ -31,11 +31,8 @@ Passionate about creating modern, responsive web apps and managing backend syste
 ---
 
 ## 📊 GitHub Stats
-| <img src="https://github-readme-stats.vercel.app/api?username=florin-bizgan&show_icons=true&theme=transparent&hide_border=true" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=florin-bizgan&layout=compact&theme=transparent&hide_border=true" /> |
-| ------------- | ------------- |
-
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=florin-bizgan&show_icons=true&count_private=true&theme=buefy&hide_border=true" alt="Florin github stats" />  | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=florin-bizgan&layout=compact&theme=buefy&hide_border=true" /> |
-|-------|-------|
+| ------------- | ------------- |
 
 ---
 
