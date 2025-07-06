@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=florin-bizgan&label=Profile+views&color=0ff&style=flat-square" alt="Profile views" />
+  ![](https://komarev.com/ghpvc/?username=florin-bizgan)
 </p>
 
 ---
@@ -31,7 +31,7 @@
 ---
 
 ## 📊 GitHub Stats
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=florin-bizgan&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&border_radius=15&title_color=00ffe0&icon_color=00ffe0&text_color=ffffff" alt="Florin github stats" />  | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=florin-bizgan&layout=compact&theme=tokyonight&hide_border=false&border_radius=15&title_color=00ffe0&text_color=ffffff" alt="Top Languages" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=florin-bizgan&show_icons=true&count_private=true&theme=buefy&hide_border=true" alt="Florin github stats" />  | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=florin-bizgan&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
 ---
