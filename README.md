@@ -7,7 +7,7 @@
 </p>
 
 
-    ![](https://komarev.com/ghpvc/?username=florin-bizgan)
+![](https://komarev.com/ghpvc/?username=florin-bizgan)
 
 
 
