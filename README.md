@@ -34,6 +34,8 @@ Passionate about creating modern, responsive web apps and managing backend syste
 | <img src="https://github-readme-stats.vercel.app/api?username=florin-bizgan&show_icons=true&theme=transparent&hide_border=true" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=florin-bizgan&layout=compact&theme=transparent&hide_border=true" /> |
 | ------------- | ------------- |
 
+****
+
 ---
 
 ## 🌱 Always Improving
