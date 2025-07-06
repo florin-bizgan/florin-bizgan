@@ -6,9 +6,9 @@
   <i>Passionate about creating modern, responsive web apps and managing backend systems for game networks like L2J.</i>
 </p>
 
-<p align="center">
+<img align="center">
   ![](https://komarev.com/ghpvc/?username=florin-bizgan)
-</p>
+</img>
 
 ---
 
