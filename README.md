@@ -1,4 +1,5 @@
 ![Header](https://user-images.githubusercontent.com/10077676/196818944-ffa9a261-a70f-4d84-9315-4e2863bfa7d8.png)
+![](https://komarev.com/ghpvc/?username=florin-bizgan)
 
 <h1 align="center">Hi, I'm Florin 👋</h1>
 <p align="center">
@@ -7,7 +8,6 @@
 </p>
 
 
-![](https://komarev.com/ghpvc/?username=florin-bizgan)
 
 
 
