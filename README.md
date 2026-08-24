@@ -33,9 +33,9 @@
 
 ## 📊 GitHub Stats
 
+https://github-readme-stats.vercel.app/api?username=florin-bizgan&show_icons=true&count_private=true&themetheme=transparent
 | ------------- | ------------- |
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=florin-bizgan&show_icons=true&count_private=true&themetheme=transparent)
 
 ---
 
