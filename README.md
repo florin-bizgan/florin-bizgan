@@ -41,7 +41,7 @@
   />
   <img
     height="180"
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=florin-bizgan&layout=compact&langs_count=4&theme=transparent"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=florin-bizgan&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5&theme=buefy&hide_border=true"
     alt="Top Languages"
   />
 </p>
