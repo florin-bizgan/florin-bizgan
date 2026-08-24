@@ -36,7 +36,7 @@
 <p align="center">
   <img
     height="180"
-    src="https://github-stats-extended.vercel.app/api?username=florin-bizgan&include_all_commits=true&show_icons=true&theme=buefy&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=florin-bizgan&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=transparent"
     alt="Florin GitHub Stats"
   />
   <img
