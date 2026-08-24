@@ -35,8 +35,7 @@
 
 | GitHub Stats | Most Used Languages |
 | --- | --- |
-| ![Florin's GitHub stats](https://github-readme-stats.vercel.app/api?username=florin-bizgan&show_icons=true&theme=transparent&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=florin-bizgan&layout=compact&theme=transparent&hide_border=true) |
-
+| <img src="https://github-stats-extended.vercel.app/api?username=florin-bizgan&show_icons=true&theme=buefy&hide_border=true" alt="Florin GitHub stats" /> | <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=florin-bizgan&layout=compact&theme=buefy&hide_border=true" alt="Florin Top Languages" /> |
 
 ---
 
