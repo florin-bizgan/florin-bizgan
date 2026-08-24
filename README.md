@@ -32,7 +32,7 @@
 ---
 
 ## 📊 GitHub Stats
-
+|     |     |
 | --- | --- |
 | <img src="https://github-stats-extended.vercel.app/api?username=florin-bizgan&include_all_commits=true&show_icons=true&theme=buefy&hide_border=true" alt="Florin GitHub Stats" /> | <img src="https://github-stats-extended.vercel.app/api/top-langs?username=florin-bizgan&layout=compact&langs_count=4&theme=buefy&hide_border=true" alt="Florin Top Languages" /> |
 
