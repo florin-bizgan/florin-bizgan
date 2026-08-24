@@ -32,8 +32,7 @@
 ---
 
 ## 📊 GitHub Stats
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=florin-bizgan&show_icons=true&count_private=true&theme=transparent />  | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=florin-bizgan&layout=compact&theme=buefy&hide_border=true" /> |
-
+![Florin's GitHub stats](https://github-readme-stats.vercel.app/api?username=florin-bizgan&show_icons=true&theme=github_dark&hide_border=true)
 | ------------- | ------------- |
 
 
