@@ -36,7 +36,7 @@
 <p align="center">
   <img
     height="180"
-    src="https://github-stats-extended.vercel.app/api?username=florin-bizgan&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&include_all_commits=true"
+    src="https://github-stats-extended.vercel.app/api?username=florin-bizgan&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent"
     alt="GitHub Stats"
   />
   <img
