@@ -33,12 +33,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    height="180"
-    src="https://github-stats-extended.vercel.app/api?username=florin-bizgan&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true"
-    alt="GitHub Stats"
-  />
+<!-- s -->
   <img
     height="180"
     src="https://github-stats-extended.vercel.app/api/top-langs?username=florin-bizgan&layout=compact&langs_count=6&exclude_repo=L2J_Mobius,Microsoft-Activation-Scripts&size_weight=0.5&count_weight=0.5&theme=transparent&hide_border=true"
